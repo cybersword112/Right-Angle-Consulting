@@ -105,8 +105,8 @@ input, select, textarea {
 	body, input, select, textarea {
 		/* font-family: 'Open Sans', sans-serif; */
 		font-family: 'Inter', sans-serif;
-		color: #1d1e1f;
-		font-weight: 400;
+		color: #000000;
+		font-weight: 300;
 		font-size: 11pt;
 		line-height: 1.85em;
 	}
@@ -2431,7 +2431,9 @@ input, select, textarea {
 
 	}
 
-
+.needDarker{
+	color: #e6e6e6;
+}
 .frostedGlass{
 	border-radius: 8px;
 	backdrop-filter: blur(12px);
